@@ -1,0 +1,1 @@
+An Ecommerce Product Listing web page containing a header,navigation menu,category section, product cards,product images,prices and a footer. I have used CSS grid for the product and made the page responsive
